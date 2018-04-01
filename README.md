@@ -1,9 +1,11 @@
 # 2048
-Hi, this is a terminal implementation of the 2048 game. It started as a class project but has been greatly impoved since then.
+Hi, this is a terminal implementation of the 2048 game done as a class project.
 
 # Tech Used
-This program was implemented in C++ 11. It uses the ncurses framework to take unbuffered input.
+This program was implemented in C++ 11.
 
+# Build Status
+I would love to redo this project in python and make use of one of python's many GUI frameworks to make it more user friendly
 # Installation
 first clone the repo
 ```
