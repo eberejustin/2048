@@ -1,5 +1,5 @@
 CC = clang++
-CFLAGS = -Wall -Wextra -c -std=c++11 -lncurses
+CFLAGS = -Wall -Wextra -c -std=c++11
 DEPS = board.h game.h
 #compile step
 %.o: %.cpp $(DEPS)
