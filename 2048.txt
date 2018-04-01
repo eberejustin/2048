@@ -1,0 +1,17 @@
+The game will be implemented with 2 classes board.h and game.h
+
+Board.h
+Memeber Functions
+creates the board
+sets up the board 
+displays the board
+moves tiles 
+ -takes a char argument for direction and updates the board based on the char
+ -also calculates and returns the score from doing the specified move
+ -and adds a new number to the board
+
+member variables
+a char pointer(**) called tiles(contains the 2d array for the board)
+an int board_size (stores the user input for the board size)
+
+Game.h
