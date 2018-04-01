@@ -6,14 +6,18 @@ This program was implemented in C++ 11. It uses the ncurses framework to take un
 
 # Installation
 first clone the repo
-	git clone https://github.com/eberejustin/2048
-
+```
+git clone https://github.com/eberejustin/2048
+```
 to compile it,
-	make 2048
+```
+make 2048
+```
 
 to play the game
-	./2048
-
+```
+./2048
+```
 
 
 
